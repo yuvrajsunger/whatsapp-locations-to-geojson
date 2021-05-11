@@ -1,5 +1,5 @@
 # whatsapp-locations-to-geojson
-Converts locations shared in whatsapp chat into a single geojson file.
+Converts locations shared in whatsapp chat into a single geojson file. (Using Python's re, datetime modules and pandas, geopandas libraries)
 
 The ojective of writing this code for me is to keep track of attendance (location based) of field surveyors working in a project my team is heading.
 
